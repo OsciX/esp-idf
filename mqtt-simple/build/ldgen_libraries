@@ -1,4 +1,4 @@
-D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/xtensa/libxtensa.a
+D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/riscv/libriscv.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/efuse/libefuse.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/esp_mm/libesp_mm.a
@@ -58,7 +58,6 @@ D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/fatfs/libfatfs.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/json/libjson.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/mqtt/libmqtt.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/nvs_sec_provider/libnvs_sec_provider.a
-D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/perfmon/libperfmon.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/spiffs/libspiffs.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 D:/Documents/SmartHomeHacking/ESP-IDF/mqtt-simple/build/esp-idf/main/libmain.a
